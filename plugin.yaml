@@ -1,0 +1,15 @@
+name: hermes-desktop-inline-comments
+label: Inline Comments
+kind: standalone
+version: "0.3.0"
+author: Skander BM
+homepage: https://github.com/rednaks/hermes-desktop-inline-comments
+description: >
+  Review-style comments for Hermes Desktop: select text in an agent reply or in a file open
+  in the preview pane, add a note,
+  and your pending comments are attached to your next message (or sent on their own).
+  Comments are highlighted in the reply, editable in place, and render as compact rows
+  in your sent message. Desktop-only; no tools, hooks, network calls or credentials.
+requires_hermes: ">=0.22.5"
+provides_tools: []
+provides_hooks: []
